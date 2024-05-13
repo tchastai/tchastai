@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**tchastai/tchastai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thomas,
 
-Here are some ideas to get you started:
+I love to work on distributed systemes and cloud computing technologies.
+My expertise spans across [Golang](https://golang.org), [Java](https://www.java.com), 
+[Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io), and 
+[Terraform](https://www.terraform.io/). Presently, I'm engaged in implementing the 
+Raft Algorithm to deepen my comprehension of the protocols utilized by platforms 
+like Kubernetes and Consul.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=tchastai"
+    alt="tchastai"
+  />
+</p>
