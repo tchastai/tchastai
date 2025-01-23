@@ -4,12 +4,8 @@
 
 I'm Thomas,
 
-I love to work on distributed systemes and cloud computing technologies.
-My expertise spans across [Golang](https://golang.org), [Java](https://www.java.com), 
-[Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io), and 
-[Terraform](https://www.terraform.io/). Presently, I'm engaged in implementing the 
-Raft Algorithm to deepen my comprehension of the protocols utilized by platforms 
-like Kubernetes and Consul.
+Site Reliability Engineer, passionate about software quality.
+Passionate about the Go language, I enjoy working on complex systems.
 
 <p align="left">
   <img
