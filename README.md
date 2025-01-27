@@ -4,7 +4,7 @@
 
 I'm Thomas,
 
-Site Reliability Engineer, passionate about software quality and reliability.
+Site Reliability Engineer, passionate about software quality, performance and reliability.
 
 <p align="left">
   <img
