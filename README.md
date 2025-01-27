@@ -4,8 +4,7 @@
 
 I'm Thomas,
 
-Site Reliability Engineer, passionate about software quality.
-Passionate about the Go language, I enjoy working on complex systems.
+Site Reliability Engineer, passionate about software quality and reliability.
 
 <p align="left">
   <img
